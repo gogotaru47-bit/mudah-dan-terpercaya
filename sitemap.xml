@@ -1,51 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://totosloto.fit/</loc>
-    <lastmod>2026-11-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://totosloto.fit/artikel1-totosloto.html</loc>
-    <lastmod>2026-11-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://totosloto.fit/artikel2-totosloto.html</loc>
-    <lastmod>2026-11-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://totosloto.fit/artikel3-totosloto.html</loc>
-    <lastmod>2026-11-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://totosloto.fit/artikel4-totosloto.html</loc>
-    <lastmod>2026-11-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://totosloto.fit/live-chat-totosloto.html</loc>
-    <lastmod>2026-11-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://totosloto.fit/pola-bermain-totosloto.html</loc>
-    <lastmod>2026-11-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://totosloto.fit/prediksi-togel-totosloto.html</loc>
-    <lastmod>2026-11-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
+
+    <!-- Halaman Utama (Homepage) -->
+    <url>
+        <loc>https://totosloto.fit/</loc>
+        <lastmod>2026-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Artikel 1 -->
+    <url>
+        <loc>https://totosloto.fit/artikel1-totosloto.html</loc>
+        <lastmod>2026-11-26</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Artikel 2 -->
+    <url>
+        <loc>https://totosloto.fit/artikel2-totosloto.html</loc>
+        <lastmod>2026-11-26</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Artikel 3 -->
+    <url>
+        <loc>https://totosloto.fit/artikel3-totosloto.html</loc>
+        <lastmod>2026-11-26</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Artikel 4 -->
+    <url>
+        <loc>https://totosloto.fit/artikel4-totosloto.html</loc>
+        <lastmod>2026-11-26</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Halaman Live Chat -->
+    <url>
+        <loc>https://totosloto.fit/live-chat-totosloto.html</loc>
+        <lastmod>2026-11-26</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Halaman Pola Bermain -->
+    <url>
+        <loc>https://totosloto.fit/pola-bermain-totosloto.html</loc>
+        <lastmod>2026-11-26</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Halaman Prediksi Togel -->
+    <url>
+        <loc>https://totosloto.fit/prediksi-togel-totosloto.html</loc>
+        <lastmod>2026-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+
 </urlset>
